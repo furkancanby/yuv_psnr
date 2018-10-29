@@ -2,7 +2,7 @@
 <p align="center">
 Compare 2 YUV file and print PSNR throughtputs.
     <br><br><B>USAGE:<B><br>
-    /PROGRAM.exe   file1.yuv   file2.yuv   width      height     chroma_subsampling<br>
+    PROGRAM.exe   file1.yuv   file2.yuv   width      height     chroma_subsampling<br>
     </p>
   
 <p align="center">
