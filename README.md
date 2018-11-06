@@ -4,10 +4,10 @@ Compare 2 YUV file and print PSNR throughtputs.
     <br><br><B>USAGE:<B><br>
     PROGRAM.exe   file1.yuv   file2.yuv   width      height     chroma_subsampling<br>
 
+ </p>
  
-   <img width="80%" height="auto" src="/images/githubimage.jpg"/>
-
-  **ORIGINAL FILE AND BLURRED FILE**
+   <img width="50%" height="auto" src="/images/githubimage.jpg"/>
+  <center>**ORIGINAL FILE AND BLURRED FILE**</center>
   <BR/>
   <img width="50%" height="auto" src="/images/files_review.jpg"/>
   <BR/>
@@ -15,5 +15,3 @@ Compare 2 YUV file and print PSNR throughtputs.
   <BR/>
   <img width="50%" height="auto" src="/images/1.jpg"/>
   <img width="50%" height="auto" src="/images/2.jpg"/>
-  
-</p>
