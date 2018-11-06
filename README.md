@@ -3,18 +3,15 @@
 Compare 2 YUV file and print PSNR throughtputs.
     <br><br><B>USAGE:<B><br>
     PROGRAM.exe   file1.yuv   file2.yuv   width      height     chroma_subsampling<br>
-    </p>
+
  
-<p align="center">
-        
- 
-  <img width="50%" height="auto" src="/images/githubimage.jpg"/>
-    
-  <B>ORIGINAL FILE AND BLURRED FILE<B/>
+   <img width="80%" height="auto" src="/images/githubimage.jpg"/>
+
+  **ORIGINAL FILE AND BLURRED FILE**
   <BR/>
   <img width="50%" height="auto" src="/images/files_review.jpg"/>
   <BR/>
-  <B>PROGRAM THROUGHPUTS<B/>
+  **PROGRAM THROUGHPUTS**
   <BR/>
   <img width="50%" height="auto" src="/images/1.jpg"/>
   <img width="50%" height="auto" src="/images/2.jpg"/>
