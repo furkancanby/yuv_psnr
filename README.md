@@ -1,4 +1,4 @@
-# yuv_psnr
+# yuv_psnr - YUV File PSNR Calculator
 <p align="center">
  Compare 2 YUV file and print PSNR throughtputs.
  <BR><BR>
